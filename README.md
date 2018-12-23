@@ -25,11 +25,11 @@ This is a Command Line script for Linux, printing out the weather forecast start
 ……………. https://www.openweathermap.org/ ……………..
 #
 
-This is a Python script for the requests to the URL
+Weather05.py is a Python script for the requests to the URL
 
 All the arguments are mandatory.
 
-Combining the date (YYYYmmgg) and time (e.g.: HHMMSS) you'll get the starting time the weather forecast will be printed out.
+Combining the date (YYYYmmgg) and time (e.g.: HHMMSS) you'll get the starting time the weather forecast will be printed out from.
 #
 
 ERRORS. The script will response with three status_code and descriptions:
